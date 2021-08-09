@@ -1,7 +1,6 @@
 # Using S3 Bucket Event Notifications in AWS CDK
 
-A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-s3-bucket-event-notifications)
+
 
 ## How to Use
 
